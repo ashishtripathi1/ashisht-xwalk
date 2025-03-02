@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/xwalk-site/:/",
-    "/content/xwalk-site/configuration:/.helix/config.json",
-    "/content/xwalk-site/metadata:/metadata.json"
+    "/content/ashisht-xwalk/:/",
+    "/content/ashisht-xwalk/configuration:/.helix/config.json",
+    "/content/ashisht-xwalk/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/xwalk-site/"
+    "/content/ashisht-xwalk/"
   ]
 }
